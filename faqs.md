@@ -37,7 +37,7 @@ We'll be following the ancient tradition of combining surnames. We will be takin
 <p class="question"><strong>A gift???</strong></p>
 
 We really do genuinely honestly mean it - there really is no need! If you really would like to do something, please donate to [this pot](https://monzo.me/charleseardley?h=Dk8hv4).
-We'll give half of anything to our chosen charities of [The RNLI](https://rnli.org/) and [Gendered Intelligence](https://genderedintelligence.co.uk/), and the remainder will help fund our silly little Italian road trip/honeymoon.
+We'll give half of anything to our chosen charities [The RNLI](https://rnli.org/) and [Gendered Intelligence](https://genderedintelligence.co.uk/), and the remainder will help fund our silly little Italian road trip/honeymoon.
 
 (PS, this is just my bank account so please add a note so we know who to say thank you to!).
 </div>
