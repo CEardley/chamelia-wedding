@@ -3,16 +3,17 @@ layout: default
 title: Home
 ---
 
-# Charlie & Amelia
+# Amelia & Charlie x
 
-<p class="subtitle">Are getting married!</p>
+<p class="subtitle">the nuptials</p>
 
-## Save the Date
+**Saturday, 25th April 2026, Islington**
 
-**Saturday, September 20th, 2025**
+We will be getting married, please join us for some fun and japes :)
 
-We're so excited to celebrate with you. Please explore the pages above for all the details you'll need.
+*(Do let us know if you can't make it asap, pls n thanks)*
 
----
-
-*More details coming soon. If you have any questions, please reach out to us directly.*
+<figure>
+  <img src="{{ '/assets/images/the-happy-couple.jpg' | relative_url }}" alt="The happy couple" class="responsive-image">
+  <figcaption>The happy couple happily building a silly little website</figcaption>
+</figure>

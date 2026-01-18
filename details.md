@@ -3,35 +3,45 @@ layout: default
 title: Details
 ---
 
-# Wedding Details
+# The Details
 
-## Ceremony
+<p class="subtitle">as with most great theatre, this is a two-act production - however, unlike most great theatre, act-one has reduced capacity x</p>
 
-**Time:** 3:00 PM
-**Location:** [Venue Name]
-**Address:** [Full Address]
+<div class="section" markdown="1">
 
-Please arrive by 2:30 PM.
+## Part One
 
-## Reception
+**Ceremony**
 
-**Time:** 5:00 PM - 11:00 PM
-**Location:** [Venue Name]
-**Address:** [Full Address]
+We are having a teeny tiny two witness ceremony (shout out Amy and Maria) at [**Islington Town Hall**](https://maps.app.goo.gl/tJJB9cKidvHA6exb6) at 11:15am.
 
-## Dress Code
+Whilst you can't join us in the ceremony, we would love for you to wait for us outside (and speculate whether we are
+indeed getting married), and throw flowers at us as we leave the building.
 
-Semi-formal / Cocktail attire
+**Lunch**
+
+We shall stomp together to [**Salut!**](https://maps.app.goo.gl/iM8zpTtBmvk2sXpT6) for lunch, which we can only assume will be delicious.
+
+</div>
+
+<div class="section" markdown="1">
+
+## Part Two
+
+**Pub**
+
+Please join us upstairs at [**The Alpaca**](https://maps.app.goo.gl/uNuehWuNhdjxHvf6A) from 6pm til late. Think pints, sharing platters, naff playlist, potentially a speech or two.
+
+</div>
+
+<div class="section" markdown="1">
 
 ## Schedule
 
-- 2:30 PM - Guests arrive
-- 3:00 PM - Ceremony
-- 4:00 PM - Cocktail hour
-- 5:00 PM - Reception & dinner
-- 7:00 PM - Dancing
-- 11:00 PM - Last dance
+**11am**  - gather at Islington Town Hall
 
----
+**12pm**  - part one crew lunch at Salut!
 
-*Please contact us if you have any questions.*
+**6pm** - pub
+
+</div>
