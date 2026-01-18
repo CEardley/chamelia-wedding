@@ -11,7 +11,7 @@ title: Home
 
 We will be getting married, please join us for some fun and japes :)
 
-*(Do let us know if you can't make it asap, pls n thanks)*
+Please RSVP asap via [**this link**](https://docs.google.com/forms/d/e/1FAIpQLSeMye-Fje8Vo_DgDTIamM62md0CbGNa_aCIcAmyneL2X45xvQ/viewform?usp=dialog).
 
 <figure>
   <img src="{{ '/assets/images/the-happy-couple.jpg' | relative_url }}" alt="The happy couple" class="responsive-image">
