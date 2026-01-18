@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 
-# Amelia & Charlie x
+# Amelia & Charlie
 
-<p class="subtitle">the nuptials</p>
+<p class="subtitle">the nuptials x</p>
 
-**Saturday, 25th April 2026, Islington**
+**Saturday 25th April 2026, Islington**
 
 We will be getting married, please join us for some fun and japes :)
 
