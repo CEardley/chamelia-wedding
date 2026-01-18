@@ -18,7 +18,7 @@ title: Details
 
 <p><strong>Lunch</strong></p>
 
-<p>We shall stomp together to <a href="https://maps.app.goo.gl/iM8zpTtBmvk2sXpT6"><strong>Salut!</strong></a> for lunch, which we can only assume will be delicious.</p>
+<p>A small crowd of our OG beloveds shall stomp together to <a href="https://maps.app.goo.gl/iM8zpTtBmvk2sXpT6"><strong>Salut!</strong></a> for lunch, which we can only assume will be delicious.</p>
 </div>
 
 <div class="section">
