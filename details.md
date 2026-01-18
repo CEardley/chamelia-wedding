@@ -5,10 +5,10 @@ title: Details
 
 # The Details
 
-<p class="subtitle">as with most great theatre, this is a two-act production - however, unlike most great theatre, act-one has reduced capacity</p>
+<p class="subtitle">as with most great theatre, this is a two-act production - however, unlike most great theatre, act one has reduced capacity</p>
 
 <div class="section">
-<h2>Part One</h2>
+<h2>Act One</h2>
 
 <p><strong>Ceremony</strong></p>
 
@@ -22,7 +22,7 @@ title: Details
 </div>
 
 <div class="section">
-<h2>Part Two</h2>
+<h2>Act Two</h2>
 
 <p><strong>Pub</strong></p>
 
@@ -34,7 +34,9 @@ title: Details
 
 <p><strong>11am</strong> - gather at Islington Town Hall</p>
 
-<p><strong>12pm</strong> - part one crew lunch at Salut!</p>
+<p><strong>12pm</strong> - OG crew lunch at Salut!</p>
 
 <p><strong>6pm</strong> - pub</p>
+
+<p><strong>1am</strong> - stragglers get booted from pub</p>
 </div>
