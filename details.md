@@ -5,7 +5,7 @@ title: Details
 
 # The Details
 
-<p class="subtitle">as with most great theatre, this is a two-act production - however, unlike most great theatre, act-one has reduced capacity x</p>
+<p class="subtitle">as with most great theatre, this is a two-act production - however, unlike most great theatre, act-one has reduced capacity</p>
 
 <div class="section">
 <h2>Part One</h2>
