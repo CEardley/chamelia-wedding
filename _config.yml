@@ -1,0 +1,14 @@
+title: "Our Wedding"
+description: "Wedding celebration details"
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
