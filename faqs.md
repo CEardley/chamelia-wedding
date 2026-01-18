@@ -18,11 +18,13 @@ In reality, please wear whatever you're most comfortable in. Amelia is wearing r
 <div class="faq" markdown="1">
 <p class="question"><strong>What will I eat?</strong></p>
 
-Part one attendees, we'll reach out to you for dietaries.
+For those joining us as at lunch, we'll be eating something delicious at [Salut!](https://maps.app.goo.gl/iM8zpTtBmvk2sXpT6).
 
-Part two folks, we recommend you also have a delicious lunch before joining us at the pub. For local places to eat, check out [our pins on Google Maps](https://maps.app.goo.gl/88zZPKXioPRSf4NL9) (other establishments are available).
+Everyone else, we encourage you to also have a delicious lunch before joining us at the pub. For local places to eat, check out [our pins on Google Maps](https://maps.app.goo.gl/88zZPKXioPRSf4NL9) (other establishments are available).
 
-At The Alpaca we'll be ordering a selection of sharing plates. There'll also be the option to order any additional food as your bellies desire.
+At [The Alpaca](https://maps.app.goo.gl/uNuehWuNhdjxHvf6A) we'll be ordering a selection of sharing plates. There'll also be the option to order any additional food as your bellies desire.
+
+Please let us know of any dietary requirements via the [RSVP form](https://docs.google.com/forms/d/e/1FAIpQLSeMye-Fje8Vo_DgDTIamM62md0CbGNa_aCIcAmyneL2X45xvQ/viewform?usp=dialog).
 </div>
 
 <div class="faq" markdown="1">
